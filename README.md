@@ -1,5 +1,5 @@
-# camshop
-Concordia Bootcamps Group Project
+# Camera Shop
+Concordia Bootcamps Team Project
 
 [Live version](https://camshop.netlify.app/)
 
