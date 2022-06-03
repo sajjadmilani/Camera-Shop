@@ -1,0 +1,32 @@
+[
+  {
+    "name": "CANON",
+    "url": "https://shop.canon.ca/en_ca/",
+    "country": "Japan",
+    "_id": 1
+  },
+  {
+    "name": "NIKON",
+    "url": "https://en.nikon.ca/index.page",
+    "country": "Japan",
+    "_id": 2
+  },
+  {
+    "name": "SONY",
+    "url": "https://www.sony.ca/en",
+    "country": "Japan",
+    "_id": 3
+  },
+  {
+    "name": "FUJIFILM",
+    "url": "https://www.fujifilm.com/ca/en",
+    "country": "Japan",
+    "_id": 4
+  },
+  {
+    "name": "OLYMPUS",
+    "url": "https://www.getolympus.com/ca/en/",
+    "country": "Japan",
+    "_id": 5
+  }
+]

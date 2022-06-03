@@ -1,0 +1,434 @@
+[
+  {
+    "name": "CANON EF 50MM F/1.8 STM",
+    "price": "$169.00",
+    "description": "Compact and lightweight-an outstanding walk-around lens-Canon's EF 50mm f/1.8 STM is a great entry into the world of EOS prime lenses. With an 80mm effective focal-length on APS-C cameras, 50mm on full-frame cameras, it's an excellent prime lens for portraits, action, even nighttime photography.",
+    "category": "Lens",
+    "section": "Accessories",
+    "imageSrc": "/products/CANONEF50MM.jpeg",
+    "numInStock": 9,
+    "companyId": 1
+  },
+  {
+    "name": "NIKON AF-S NIKKOR 50MM F/1.8G",
+    "price": "$249.00",
+    "description": "Updated classic FX prime lens with a fast maximum aperture is ideal for everyday shooting, in low lighting situations and images with beautiful background blur (bokeh). The AF-S 50mm f/1.8G includes Silent Wave Motor technology (SWM) for fast and precise autofocus and an aspheric lens element for outstanding optical performance with high contrast.",
+    "category": "Lens",
+    "section": "Accessories",
+    "imageSrc": "/products/NIKKOR50MM.jpeg",
+    "numInStock": 15,
+    "companyId": 2
+  },
+  {
+    "name": "SONY FE 50MM F/1.8",
+    "price": "$349.00",
+    "description": "Small, light, bright: a great normal prime. A large-aperture 50 mm prime lens is a must-have for serious full-frame camera users, and this is an excellent, affordable choice. The optical design is state-of-the-art for high image quality, and the large F1.8 maximum aperture can produce gorgeous background bokeh. On APS-C format E-mount bodies it provides equally high quality with an equivalent focal length of about 75 mm.",
+    "category": "Lens",
+    "section": "Accessories",
+    "imageSrc": "/products/id.3-SONYFE50MMF_1.8_300x300.jpeg",
+    "numInStock": 12,
+    "companyId": 3
+  },
+  {
+    "name": "FUJIFILM FUJINON XF 55-200MM F/3.5-4.8 R LM OIS",
+    "price": "$939.00",
+    "description": "Built with optical design that offers a large maximum aperture, and a linear motor that delivers high-speed AF performance, while featuring the image stabilization function that allows the use of shutter speeds 4.5 stops slower. This is a lens you can trust even in toughest of the shooting conditions.Using high-performance glass lens elements throughout.Containing two ED lens elements, including one Super ED lens element that boasts performance equivalent to that of fluorite lens, to control chromatic aberration, which typically occurs in long focal lengths. Sharp and crisp image description across its entire zoom range.",
+    "category": "Lens",
+    "section": "Accessories",
+    "imageSrc": "/products/id.4-FUJIFILMFUJINONXF55-200MMF_3.5-4.8RLMOIS_300x300.jpeg",
+    "numInStock": 2,
+    "companyId": 4
+  },
+  {
+    "name": "OLYMPUS OLYMPUS M.ZUIKO DIGITAL ED 8-25MM F/4 PRO",
+    "price": "$1359.00",
+    "description": "It’s an ultra-wide world. The M.Zuiko 8-25mm F4.0 PRO is perfect for capturing outdoor scenes and dramatic landscapes. It easily fits in your hand, weighs under a pound and features powerful magnification. No-worry, weathersealed construction lets you shoot spectacular images in all conditions. Ultra-wide. Portable. Perfect.",
+    "category": "Lens",
+    "section": "Accessories",
+    "imageSrc": "/products/id.5-OLYMPUSOLYMPUSM.ZUIKODIGITALED8-25MMF_4PRO_300x300.jpeg",
+    "numInStock": 6,
+    "companyId": 5
+  },
+  {
+    "name": "CANON CB-2LV CHARGER FOR CANON NB-4L BATTERY",
+    "price": "$67.99",
+    "description": "To charge battery pack NB-4L.",
+    "category": "Battery",
+    "section": "Accessories",
+    "imageSrc": "/products/id.1-CANONCB-2LVCHARGERFORCANONNB-4LBATTERY_300x200.jpeg",
+    "numInStock": 42,
+    "companyId": 1
+  },
+  {
+    "name": "NIKON SB-700 AF SPEEDLIGHT",
+    "price": "$249.00",
+    "description": "Versatility meets portability. The i-TTL-optimized SB-700 offers the perfect balance of exposure, performance and portability for any photographer on the go. It’s flexible flash head provides creative lighting freedom for nearly any subject. Achieve brilliant results and seamless lighting system integration with hot shoe operation or wirelessly as a master, commander or remote light source.",
+    "category": "Speedlight",
+    "section": "Accessories",
+    "imageSrc": "/products/id.2-NIKONSB-700AFSPEEDLIGHT_300x300.jpeg",
+    "numInStock": 7,
+    "companyId": 2
+  },
+  {
+    "name": "SONY NP-F970 L-SERIES BATTERY PACK",
+    "price": "$229.00",
+    "description": "Power: 7.2 V, 47.4 Wh, 6,600 mAh.",
+    "category": "Battery",
+    "section": "Accessories",
+    "imageSrc": "/products/id.3-SONYNP-F970L-SERIESBATTERYPACK_300x300.jpeg",
+    "numInStock": 55,
+    "companyId": 3
+  },
+  {
+    "name": "FUJIFILM NP-95 BATTERY PACK",
+    "price": "$89.99",
+    "description": "NP-95 Lithium-Ion Battery Pack features 3.6V of output power, 1800mAh of capacity, and a power rating of 6.48 Wh. The battery is offered here as a spare or replacement part.",
+    "category": "Battery",
+    "section": "Accessories",
+    "imageSrc": "/products/id.4-FUJIFILMNP-95BATTERYPACK_300x300.jpeg",
+    "numInStock": 22,
+    "companyId": 4
+  },
+  {
+    "name": "OLYMPUS FL-600R FLASH",
+    "price": "$199.00",
+    "description": "Powered by four AA alkaline or NiMH batteries, the FL-600R's charging time is approximately half as long as that of the FL-50R.",
+    "category": "Speedlight",
+    "section": "Accessories",
+    "imageSrc": "/products/id.5-OLYMPUSFL-600RFLASH_300x300.jpeg",
+    "numInStock": 8,
+    "companyId": 5
+  },
+  {
+    "name": "OLYMPUS RM-UC1 REMOTE CABLE RELEASE",
+    "price": "$76.99",
+    "description": "The remote cable release RM-UC1 for multiple camera models. See below for full listing of cameras. It allows the user to take pictures over long exposures without shaking the camera. Additionally, it offers the possibility of locking the release button for bulb exposure. The RM-UC1 connects to the camera's USB connector. Cord length: 34.",
+    "category": "Cable",
+    "section": "Accessories",
+    "imageSrc": "/products/id.5-OLYMPUSRM-UC1REMOTECABLERELEASE_300x293.jpeg",
+    "numInStock": 48,
+    "companyId": 5
+  },
+  {
+    "name": "CANON ACK-DC50 AC ADAPTER KIT",
+    "price": "$109.00",
+    "description": "Provides AC power to the camera.",
+    "category": "Cable",
+    "section": "Accessories",
+    "imageSrc": "/products/id.1-CANONACK-DC50ACADAPTERKIT_300x300.jpeg",
+    "numInStock": 64,
+    "companyId": 1
+  },
+  {
+    "name": "OLYMPUS LI-92B BATTERY PACK",
+    "price": "$59.99",
+    "description": "The LI‑92B lithium‑ion battery is the successor model to the LI‑90B with an increased capacity of approx. 5% to 1350mAh.",
+    "category": "Battery",
+    "section": "Accessories",
+    "imageSrc": "/products/id.5-OLYMPUSLI-92BBATTERYPACK_300x265.jpeg",
+    "numInStock": 105,
+    "companyId": 5
+  },
+  {
+    "name": "SONY HVL-F45RM WIRELESS RADIO FLASH",
+    "price": "$549.00",
+    "description": "High-power compact flash. This dramatically downsized compact, lightweight clip-on flash with guide number (GN) 45 is best suited to use with the α7 series. The flash supplies powerful output even for bounce lighting, recycling only takes approx. 2.5 seconds, and stamina in performance delivers up to approx. 210 bursts.",
+    "category": "Speedlight",
+    "section": "Accessories",
+    "imageSrc": "/products/id.3-SONYHVL-F45RMWIRELESSRADIOFLASH_300x300.jpeg",
+    "numInStock": 19,
+    "companyId": 3
+  },
+  {
+    "name": "NIKON WU-1B WIRELESS MOBILE ADAPTER",
+    "price": "$86.99",
+    "description": "The WU-1b optional wireless mobile adapter allows you to automatically send great images to your smartphone and even use your smartphone to remotely capture images from your D600 D-SLR. With the easy to use app, now when you can't wait to share that great shot, you don't have to. Share it to your smartphone or tablet in an instant.",
+    "category": "ADAPTER",
+    "section": "Accessories",
+    "imageSrc": "/products/id.2-NIKONWU-1BWIRELESSMOBILEADAPTER_300x300.jpeg",
+    "numInStock": 10,
+    "companyId": 2
+  },
+  {
+    "name": "NIKON SU-800 WIRELESS SPEEDLIGHT COMMANDER UNIT",
+    "price": "$474.00",
+    "description": "The extremely compact and portable SU-800 Wireless Speedlight Commander offers highly flexible control over the SB-910, SB-900, SB-800, SB-700, SB-600, SB-500 and SB-R200 Speedlight units. It functions as a wireless commander for compatible Nikon DSLRs without a built-in Commander mode and meets the demands of all of your remote lighting needs.",
+    "category": "Speedlight",
+    "section": "Accessories",
+    "imageSrc": "/products/id.2-NIKONSU-800WIRELESSSPEEDLIGHTCOMMANDERUNIT_300x300.jpeg",
+    "numInStock": 10,
+    "companyId": 2
+  },
+  {
+    "name": "SONY FA-EC1AM EXTENSION CABLE FOR FLASH ACCESSORIES",
+    "price": "$84.99",
+    "description": "It’s time to optimise your lighting angles. Designed for use with compatible Sony 'α' products, the FAMC1AM cable enables users to connect multiple off-camera flash units and achieve perfectly balanced lighting in every shot.",
+    "category": "Cable",
+    "section": "Accessories",
+    "imageSrc": "/products/id.3-SONYFA-EC1AMEXTENSIONCABLEFORFLASHACCESSORIES_300x225.jpeg",
+    "numInStock": 21,
+    "companyId": 3
+  },
+  {
+    "name": "OLYMPUS LH-76 LENS HOOD",
+    "price": "$79.99",
+    "description": "The LH-76 is a round lens hood developed specifically for the m.Zuiko 40-150mm f2.8 PRO lens and can be mounted to keep extraneous light from entering the lens on backlit shots. Additionally the LH-76 has a black finishing to perfectly fit to the black design of the lens.",
+    "category": "Lens",
+    "section": "Accessories",
+    "imageSrc": "/products/id.5-OLYMPUSLH-76LENSHOOD_300x318.jpeg",
+    "numInStock": 9,
+    "companyId": 5
+  },
+  {
+    "name": "CANON LP-E19 BATTERY PACK",
+    "price": "$234.00",
+    "description": "Canon LP-E19 Battery Pack is a rechargeable lithium-ion battery compatible with the EOS-1DX Mark II. The Battery Pack also communicates with the camera.",
+    "category": "Battery",
+    "section": "Accessories",
+    "imageSrc": "/products/id.1-CANONLP-E19BATTERYPACK_300x300.jpeg",
+    "numInStock": 2,
+    "companyId": 1
+  },
+  {
+    "name": "FUJIFILM RR-100 REMOTE SHUTTER",
+    "price": "$69.99",
+    "description": "Remote trigger. Great for long exposures. Reduces camera shake. 2.5m Jack.",
+    "category": "Cable",
+    "section": "Accessories",
+    "imageSrc": "/products/id.4-FUJIFILMRR-100REMOTESHUTTER_300x300.jpeg",
+    "numInStock": 4,
+    "companyId": 4
+  },
+
+  {
+    "name": "SONY ALC-F49S 49MM FRONT LENS CAP",
+    "price": "$14.99",
+    "description": "Keep your lens safe from unwanted dust and scratches using this high-quality 49mm lens cap.",
+    "category": "Lens",
+    "section": "Accessories",
+    "imageSrc": "/products/id.3-SONYALC-F49S49MMFRONTLENSCAP_300x300.jpeg",
+    "numInStock": 11,
+    "companyId": 3
+  },
+  {
+    "name": "POWERSHOT ELPH 360 HS (BLACK)",
+    "price": "$299.99",
+    "description": "For the photo novice looking to save the magic moments that happen in everyday life, the stylish PowerShot ELPH 360 HS camera is slim enough to have with you when and where you need it. The 12x Optical Zoom can help capture a close-up of a child’s face on stage, or a wide image of the whole play and audience. Share those memories with friends and family easily thanks to built-in Wi-Fi®* and NFC** capability. The 20.2 Megapixel*** CMOS sensor and DIGIC 4+ Image Processor help deliver detailed images, while Intelligent IS and Optical Image Stabilizer help the images remain sharp with minimal blur. Record unforgettable movies at 1080p Full HD resolution, and see the whole image on a clear 3.0-inch LCD screen to help ensure you have the picture you want. Hybrid Auto mode captures a short video of the seconds before you capture your image. The newly added Story Highlights mode combines your images and video, then adds appropriate effects to create a short movie of the best parts of your day.",
+    "category": "Point and shoot",
+    "section": "Cameras",
+    "imageSrc": "/products/canon-powershot.jpg",
+    "numInStock": 9,
+    "companyId": 1
+  },
+
+  {
+    "name": "COOLPIX P1000",
+    "price": "$1,299.00",
+    "description": "Imagine being able to zoom far beyond the reach of standard telephoto lenses, to capture not just the moon, but the craters, peaks and valleys of its surface. Imagine being able to view the International Space Station in flight, even the rings of Saturn—not with a telescope, but with a one-of-a-kind Nikon camera. Introducing the COOLPIX P1000, the most extreme zoom Nikon ever, and a game-changer for birders, sports and wildlife enthusiasts, travel photographers and even those aspiring to venture to the moon and beyond without leaving their backyard.",
+    "category": "Point and shoot",
+    "section": "Cameras",
+    "imageSrc": "/products/nikon-coolpix.jpg",
+    "numInStock": 5,
+    "companyId": 2
+  },
+  {
+    "name": "ZV-1 (BLACK)",
+    "price": "$999.00",
+    "description": "No experience is necessary to capture great looking videos. The ZV-1 is designed to capture amazing videos of you and your world, without any tricky setup.",
+    "category": "Point and shoot",
+    "section": "Cameras",
+    "imageSrc": "/products/sony-zv-1.jpg",
+    "numInStock": 10,
+    "companyId": 3
+  },
+  {
+    "name": "EOS REBEL T7 WITH EF-S 18-55MM F/3.5-5.6 IS II LENS",
+    "price": "$649.00",
+    "description": "Ideal for mobile device users wanting to take the next step with their photography, the EOS Rebel T7 camera combines fantastic features with easy-to-use operation for high-quality images you'll be proud to share. Harness the power of the EOS Rebel T7's large 24.1 Megapixel CMOS sensor to realize your potential for great shots. Share the memories with your friends and family quickly and easily via built-in Wi-Fi®* and NFC** technology. With the EOS Rebel T7's fast autofocus system, you can capture every moment as it happens, viewing each shot through the bright optical viewfinder. A range of additional features, including a large LCD screen, Full HD video recording and an on-board feature guide help you capture eye-catching photos and video.",
+    "category": "DSLR",
+    "section": "Cameras",
+    "imageSrc": "/products/canon-rebel.jpg",
+    "numInStock": 0,
+    "companyId": 1
+  },
+  {
+    "name": "D7500 WITH AF-S DX 18-140MM F/3.5-5.6G ED VR LENS",
+    "price": "$1,599.00",
+    "description": "Born from a desire for flagship performance and innovation in a more compact and streamlined connected camera, the D7500 delivers the game-changing resolution, ISO range, image processing and energy efficiency of the award-winning D500 in an enthusiast-level DSLR. Simply put, the D7500 is built to outperform any camera in its class with top-tier image quality, blazing speed, flawless autofocus, 4K Ultra HD video and pro-grade creative tools - all in a comfortable, rugged design. This is a camera for the new generation of creators.",
+    "category": "Point and shoot",
+    "section": "Cameras",
+    "imageSrc": "/products/nikond7500.jpg",
+    "numInStock": 4,
+    "companyId": 2
+  },
+  {
+    "name": "ALPHA A7 III BODY ONLY",
+    "price": "$2,599.00",
+    "description": "Capture the peaks of more decisive moments with the a7 III from Sony, packing newly developed back-illuminated full-frame CMOS sensor and other advanced imaging innovations, high-speed response, ease of operation, and reliable durability that are ready for various shooting needs.",
+    "category": "Mirrorless",
+    "section": "Cameras",
+    "imageSrc": "/products/alpha.jpg",
+    "numInStock": 5,
+    "companyId": 3
+  },
+  {
+    "name": "CANON EOS R6 BODY ONLY",
+    "price": "$3,199.00",
+    "description": "The EOS R6 full-frame mirrorless camera is designed to meet the demands of both photographers and video content creators who want a strong and versatile camera to keep up with their active lives. It can go from photographing high-speed action sports to filming 4K cinematic video with ease thanks to its high-performance CMOS sensor and DIGIC X image processor.",
+    "category": "Mirrorless",
+    "section": "Cameras",
+    "imageSrc": "/products/canon-eos.jpg",
+    "numInStock": 9,
+    "companyId": 1
+  },
+  {
+    "name": "VIXIA HF G50",
+    "price": "$1,299.00",
+    "description": "The combination of a large-format, high-sensitivity CMOS Sensor and Canon’s DIGIC DV 6 Image Processor with Over Sampling HD Processing enables 4K UHD recording with outstanding image quality.",
+    "category": "Camcorders",
+    "section": "Cameras",
+    "imageSrc": "/products/canon-vixia.jpg",
+    "numInStock": 1,
+    "companyId": 1
+  },
+  {
+    "name": "TOUGH TG-6 (RED)",
+    "price": "$579.00",
+    "description": "You live for the outdoors. Hiking steep mountain trails. Backpacking through a desert canyon. Skiing in the wilderness. The Tough TG-6 is ready for adventure. It’s built to endure all the extreme environments you love exploring. You can drop it. Step on it. Go deep underwater or out into a freezing blizzard. It just keeps on shooting awesome stills and video. Packed with pro features, you’ll nail difficult shots — even in low light. Shoot intricately detailed macro photos and unique shots underwater with vivid color. The lightweight, compact Tough TG-6. Engineered to survive the world’s toughest places.",
+    "category": "Point and shoot",
+    "section": "Cameras",
+    "imageSrc": "/products/olympus-tough.jpg",
+    "numInStock": 3,
+    "companyId": 5
+  },
+  {
+    "name": "X100V (BLACK)",
+    "price": "$1,774",
+    "description": "The X100V’s timeless body has top and bottom plates milled from single pieces of aluminum, which results in a refined and classic camera body with clean, attractive edges. Finished with a beautiful satin coating, the X100V is a perfect combination of design and engineering that is sure to make photographers of any level joyful as they make their images.",
+    "category": "Point and shoot",
+    "section": "Cameras",
+    "imageSrc": "/products/fujifilm.jpg",
+    "numInStock": 9,
+    "companyId": 4
+  },
+  {
+    "name": "POWERSHOT SX740 HS WITH CASE (BLACK)",
+    "price": "$499.00",
+    "description": "Capture precious moments at home or on the go with the PowerShot SX740 HS camera. The superb 40x Optical Zoom can make faraway subjects seem close, with the Optical Image Stabilizer helping to ensure sharp and steady results. For special, scenic memories, dive into the immersive world of 4K video recording for cinematic movies at nearly four times the resolution of Full HD. You can also flex your creativity with fun options like 4K Time-lapse Movies, Food Mode and more. Combining incredible zoom power with 4K video capabilities and a variety of inspiring features, the pocket-friendly PowerShot SX740 HS is ready to accompany you on your next event.",
+    "category": "Point and shoot",
+    "section": "Cameras",
+    "imageSrc": "/products/canonpower-shot.jpg",
+    "numInStock": 11,
+    "companyId": 1
+  },
+  {
+    "name": "TOUGH TG-6 (BLACK)",
+    "price": "$579.00",
+    "description": "You live for the outdoors. Hiking steep mountain trails. Backpacking through a desert canyon. Skiing in the wilderness. The Tough TG-6 is ready for adventure. It’s built to endure all the extreme environments you love exploring. You can drop it. Step on it. Go deep underwater or out into a freezing blizzard. It just keeps on shooting awesome stills and video. Packed with pro features, you’ll nail difficult shots — even in low light. Shoot intricately detailed macro photos and unique shots underwater with vivid color. The lightweight, compact Tough TG-6. Engineered to survive the world’s toughest places.",
+    "category": "Point and shoot",
+    "section": "Cameras",
+    "imageSrc": "/products/olympus-tough1.jpg",
+    "numInStock": 1,
+    "companyId": 5
+  },
+  {
+    "name": "X100V (SILVER)",
+    "price": "$1,774.00",
+    "description": "The X100V’s timeless body has top and bottom plates milled from single pieces of aluminum, which results in a refined and classic camera body with clean, attractive edges. Finished with a beautiful satin coating, the X100V is a perfect combination of design and engineering that is sure to make photographers of any level joyful as they make their images.",
+    "category": "Point and shoot",
+    "section": "Cameras",
+    "imageSrc": "/products/fujifilm1.jpg",
+    "numInStock": 0,
+    "companyId": 4
+  },
+  {
+    "name": "D780 BODY ONLY",
+    "price": "$2,699.00",
+    "description": "For those who express themselves without labels, the D780 is capable of bringing every spectacular vision to life and inspiring completely new ways to create. Versatility through the splendor of full frame photography and 4K video, slow motion, time-lapse, remoteless long exposures and a host of impactful creative shooting tools to keep inspiration flowing. Agility through major technological enhancements like a 180K-pixel Advanced Scene Recognition System, superb phase-detect autofocusing in photo and video and easy wireless image transfer to keep up with every creative demand. The D780 is a creator's dream come true. And as the successor to the expectation-shattering D750, it's a serious upgrade in terms of speed, image processing, video capability, AF performance and so much more.",
+    "category": "DSLR",
+    "section": "Cameras",
+    "imageSrc": "/products/nikon-d780.jpg",
+    "numInStock": 2,
+    "companyId": 2
+  },
+  {
+    "name": "D6 BODY ONLY",
+    "price": "$8,499.00",
+    "description": "Like every Nikon flagship camera that has come before it, the D6 holds nothing back. Featuring Nikon's most powerful AF system to date for capturing every heart-pounding, pivotal moment, the D6 is an uncompromising workhorse that lives up to every professional demand in any environment. And because every second counts in the field, the D6 is loaded with new time-saving workflow enhancements and advanced customization options. The moments that define us, that show what we’re capable of, the ones that live on, are waiting to be captured with a Nikon D6 DSLR.",
+    "category": "DSLR",
+    "section": "Cameras",
+    "imageSrc": "/products/nikon-d6.jpg",
+    "numInStock": 7,
+    "companyId": 2
+  },
+  {
+    "name": "D850 BODY ONLY",
+    "price": "$850.00",
+    "description": "When Nikon introduced the D800 and D800E, it set a new benchmark for DSLR image quality and super high resolution photography that approached medium format. Now, five years later, Nikon proudly introduces the next evolution in high resolution DSLRs, a camera that allows photographers to capture fast action in 45.7 megapixels of brilliant resolution. With remarkable advancements across the board—sensor design, autofocus, dynamic range, sensitivity, Speedlight control, battery life, shutter and mirror drive mechanisms, Silent Photography in Live-View mode, focus shift capability and more—this is quite possibly the most impressive, well-rounded DSLR yet.",
+    "category": "DSLR",
+    "section": "Cameras",
+    "imageSrc": "/products/nikon-d850.jpg",
+    "numInStock": 0,
+    "companyId": 2
+  },
+  {
+    "name": "EOS 5D MARK IV BODY ONLY",
+    "price": "$3,299.00",
+    "description": "The EOS 5D Mark IV camera builds on the powerful legacy of the 5D series, offering amazing refinements in image quality, performance and versatility. Canon's commitment to imaging excellence is the soul of the EOS 5D Mark IV. Wedding and portrait photographers, nature and landscape shooters, as well as creative videographers will appreciate the brilliance and power that the EOS 5D Mark IV delivers. Superb image quality is achieved with Canon's all-new 30.4 Megapixel full-frame sensor, and highly-detailed 4K video is captured with ease. Focus accuracy has been improved with a refined 61-point AF system and Canon's revolutionary Dual Pixel CMOS AF for quick, smooth AF for both video and Live View shooting. Fast operation is enhanced with Canon's DIGIC 6+ Image Processor, which provides continuous shooting at up to 7.0 fps*. Built-in Wi-Fi®**, GPS*** and an easy-to-navigate touch-panel LCD allow the camera to become an extension of you. When quality matters, the EOS 5D Mark IV helps deliver results to inspire even the most discerning imagemaker.",
+    "category": "DSLR",
+    "section": "Cameras",
+    "imageSrc": "/products/canon-5d.jpg",
+    "numInStock": 0,
+    "companyId": 1
+  },
+  {
+    "name": "ALPHA A7 III WITH FE 28-70MM F/3.5-5.6 OSS LENS",
+    "price": "$2,799.00",
+    "description": "Capture the peaks of more decisive moments with the α7 III from Sony, packing newly developed back-illuminated full-frame CMOS sensor and other advanced imaging innovations, high-speed response, ease of operation, and reliable durability that are ready for various shooting needs.",
+    "category": "Mirrorless",
+    "section": "Cameras",
+    "imageSrc": "/products/sony-a7.jpg",
+    "numInStock": 0,
+    "companyId": 3
+  },
+  {
+    "name": "ALPHA A7 II WITH FE 28-70MM F/3.5-5.6 OSS LENS",
+    "price": "$1,999.00",
+    "description": "Reduce blur caused by camera shake from five different directions—vertical, horizontal, pitch, yaw and roll—as opposed to only two in previous systems. The 5-axis image stabilizing system excels during video recording and even compensates for blur caused by the photographer walking or running. It’s a true marvel of engineering.",
+    "category": "Mirrorless",
+    "section": "Cameras",
+    "imageSrc": "/products/sony17.jpg",
+    "numInStock": 7,
+    "companyId": 3
+  },
+  {
+    "name": "ALPHA A6600 BODY ONLY",
+    "price": "$1,899.00",
+    "description": "The a6600 packs in the features, to deliver what you need for just about any situation you encounter – fast AF, steady image stabilization and stunning image quality, a high-capacity battery and serious 4K HDR (HLG)1 movie shooting.",
+    "category": "Mirrorless",
+    "section": "Cameras",
+    "imageSrc": "/products/sony-a66.jpg",
+    "numInStock": 4,
+    "companyId": 3
+  },
+  {
+    "name": "EOS M200 WITH EF-M 15-45MM F/3.5-6.3 IS STM LENS (BLACK)",
+    "price": "$699.00",
+    "description": "Create limitless memories with the EOS M200 interchangeable lens camera. Equipped with a 24.1 Megapixel CMOS (APS-C) sensor, Eye Detection AF and enhanced Dual Pixel CMOS AF, the EOS M200 makes it easy to capture high-quality images and videos, all in a compact, mirrorless design. Perfect for social media sharing, the EOS M200 camera boasts 4K 24p/25p video capability, vertical video* support and built-in Wi-Fi®** and Bluetooth®*** technology — helping you relive your favorite moments. Designed for ultimate creativity, the EOS M200 camera offers simple-to-use features that let your personality shine. Explore the camera’s creative filters to add a splash of color and special effects to your images, or use the Creative Assist function to easily adjust brightness and color tone. The EOS M200 camera’s Visual Guide also provides helpful tips and tricks that make navigating the camera a breeze. For selfie-enthusiasts, this camera is on point, featuring a Self Portrait Mode and a 3.0-inch tilt-type LCD that rotates 180°, helping you capture every angle with ease. With the EOS M200 interchangeable lens camera, inspiration will always be at hand.",
+    "category": "Mirrorless",
+    "section": "Cameras",
+    "imageSrc": "/products/canon-m200.jpg",
+    "numInStock": 6,
+    "companyId": 1
+  },
+  {
+    "name": "D5600 WITH AF-P DX 18-55MM F/3.5-5.6G VR LENS",
+    "price": "$899.00",
+    "description": "Bring your creativity to life with the new D5600. It features 24.2 effective megapixels, an EXPEED 4 image-processing engine, and an ISO range of 100-25600 that captures beautiful and vibrant imagery, Full HD videos and time-lapse movies even in low light situations. Inspiration also comes easy when you discover new perspectives with the vari-angle LCD monitor and intuitive touch interface. With Bluetooth® and the Nikon SnapBridge app for automatic transfer of images to your compatible smart devices, the D5600 is perfect for the connected world.",
+    "category": "DSLR",
+    "section": "Cameras",
+    "imageSrc": "/products/nikon-d5600.jpg",
+    "numInStock": 1,
+    "companyId": 2
+  }
+]
